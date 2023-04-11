@@ -63,8 +63,11 @@ switch (typeId) {
 }
 
 switch (colorId) {
-  case "BL":
+  case "BK":
     color = "Black";
+    break;
+  case "BL":
+    color = "Blue";
     break;
   case "RD":
     color = "Red";

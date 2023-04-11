@@ -65,7 +65,7 @@ if (typeId == "01") {
   type = "Other";
 }
 
-if (colorId == "BL") {
+if (colorId == "BK") {
   color = "Black";
 } else if (colorId == "BL") {
   color = "Blue";
